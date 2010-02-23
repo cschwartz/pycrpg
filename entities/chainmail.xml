@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chainmail class="entities.equipment.Equipment" tileManager="item" onUse="equip" onUseName="Equip" slot="Armor">
+	<appearance id="118"/>
+	<equipment tileManager="armor">
+		<appearance id="60"/>
+	</equipment>
+</chainmail>

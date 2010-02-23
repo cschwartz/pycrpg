@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character class="entities.character.Character" tileManager="character">
+	<appearance id="0"/>
+	<attributes>
+		<speed>4</speed>
+		<agility>3</agility>
+		<constitution>4</constitution>
+	</attributes>
+</character>

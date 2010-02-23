@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chaintrousers class="entities.equipment.Equipment" tileManager="trousers" onUse="equip" onUseName="Equip" slot="Legs">
+	<appearance id="22"/>
+	<equipment tileManager="trousers">
+		<appearance id="22"/>
+	</equipment>
+</chaintrousers>

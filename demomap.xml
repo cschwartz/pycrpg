@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<floor tileWidth="32" tileHeight="32" tilemap="floor">
+ <map width="50" height="50">
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="1"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="2"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="4"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="2" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="3" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="3" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="3" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="4" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="4" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="4" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="5" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="10"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="5" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="6" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="6" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="6" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="6" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="6" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="7" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="7" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="7" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="7" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="7" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="8" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="16"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="17"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="8" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="1"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="2"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="9" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="9" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="10" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="10" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="0"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="1"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="2"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="14"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="11" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="11" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="0"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="12" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="12" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="0"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="3"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="13" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="13" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="0"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="14" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="14" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="15" y="0"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="15" y="4"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="12"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="15" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="18"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="15" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="15" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="0"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="16" y="1"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="16" y="2"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="16" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="4"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="16" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="10"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="16" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="16"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="17"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="16" y="20"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="0"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="1"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="2"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="3"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="4"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="17" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="10"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="17" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="17" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="18" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="18" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="18" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="18" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="18" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="19" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="19" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="19" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="19" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="19" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="20" y="5"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="6"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="7"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="20" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="20" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="20" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="20" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="5"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="6"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="7"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="21" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="21" y="12"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="21" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="21" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="21" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="22" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="22" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="22" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="22" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="22" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="16"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="17"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="22" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="23" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="23" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="23" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="23" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="23" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="24" y="8"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="9"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="10"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="24" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="24" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="24" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="24" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="8"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="9"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="10"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="25" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="25" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="25" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="25" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="25" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="26" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="12"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="14"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="26" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="26" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="27" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="12"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="14"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="27" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="27" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="28" y="11"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="12"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="13"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="14"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="15"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="16"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="17"/>
+  </tile>
+  <tile isSolid="False" floorId="0">
+   <position x="28" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="28" y="19"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="11"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="12"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="13"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="14"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="15"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="16"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="17"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="18"/>
+  </tile>
+  <tile isSolid="True" floorId="2">
+   <position x="29" y="19"/>
+  </tile>
+ </map>
+ <entities>
+  <Stair id="0" direction="up">
+   <position x="7" y="11"/>
+  </Stair>
+  <Door id="1" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="9" y="5"/>
+  </Door>
+  <Door id="2" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="9" y="11"/>
+  </Door>
+  <Door id="3" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="11" y="15"/>
+  </Door>
+  <Door id="4" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="12" y="9"/>
+  </Door>
+  <Door id="5" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="13" y="4"/>
+  </Door>
+  <Door id="6" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="14" y="11"/>
+  </Door>
+  <Door id="7" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="16" y="8"/>
+  </Door>
+  <Door id="8" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="21" y="13"/>
+  </Door>
+  <Door id="9" closedDecorationId="0" isOpen="True" openDecorationId="12">
+   <position x="25" y="14"/>
+  </Door>
+  <Skeleton id="10">
+   <position x="8" y="11"/>
+  </Skeleton>
+  <sword id="11">
+   <position x="8" y="10"/>
+  </sword>
+ </entities>
+</floor>

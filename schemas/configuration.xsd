@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/configuration" xmlns:tns="http://www.example.org/configuration" elementFormDefault="qualified">
+
+    <element name="configuration" type="string"></element>
+
+    <complexType name="Configuration">
+    	<sequence>
+    		<element name="screen" type="tns:Screen"></element>
+    		<element name="input" type="tns:Input"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="Screen">
+    	<attribute name="width" type="positiveInteger">
+    	</attribute>
+    	<attribute name="height" type="positiveInteger">
+    	</attribute>
+    	<attribute name="isFullscreen" type="boolean"></attribute>
+    </complexType>
+
+    <complexType name="Input">
+    	<sequence>
+    		<element name="mapping" type="tns:Mapping" minOccurs="0" maxOccurs="unbounded"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="Mapping">
+    	<attribute name="key" type="string"></attribute>
+    	<attribute name="operation" type="string"></attribute>
+    </complexType>
+</schema>

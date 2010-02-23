@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sword class="entities.equipment.Equipment" tileManager="item" onUse="equip" onUseName="Equip" slot="MainHand">
+	<appearance id="0"/>
+	<equipment tileManager="weapons">
+		<appearance id="5"/>
+	</equipment>
+</sword>

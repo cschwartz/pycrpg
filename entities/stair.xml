@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<door class="entities.stair.Stair" tileManager="decoration">
+	<up id="25"/>
+	<down id="13"/>
+</door>

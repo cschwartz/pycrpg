@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<door class="entities.door.Door" tileManager="decoration">
+	<open id="12" />
+	<closed id="0"/>
+</door>

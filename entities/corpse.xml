@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpse class="entities.corpse.Corpse" tileManager="item">
+	<appearance id="208"/>
+</corpse>

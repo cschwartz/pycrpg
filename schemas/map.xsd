@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/map" xmlns:tns="http://www.example.org/map" elementFormDefault="qualified">
+
+    <complexType name="Floor">
+    	<sequence>
+    		<element name="floorTileset" type="tns:Tileset"></element>
+    		<element name="decorationTileset" type="tns:Tileset"></element>
+    		<element name="characterTileset" type="tns:Tileset"></element>
+    		<element name="entities" type="tns:Entities"></element>
+    		<element name="map" type="tns:Map"></element>
+    	</sequence>
+    	<attribute name="tileWidth" type="positiveInteger"></attribute>
+    	<attribute name="tileHeight" type="positiveInteger"></attribute>
+    	<attribute name="player" type="IDREF"></attribute>
+    </complexType>
+
+    <element name="floor" type="tns:Floor"></element>
+
+    <complexType name="Tileset">
+    	<sequence>
+    		<element name="colorKey" type="tns:Color"></element>
+    	</sequence>
+    	<attribute name="filename" type="string"></attribute>
+    </complexType>
+
+    <complexType name="Color">
+    	<attribute name="red" type="unsignedByte"></attribute>
+    	<attribute name="green" type="unsignedByte"></attribute>
+    	<attribute name="blue" type="unsignedByte"></attribute>
+    </complexType>
+
+    <complexType name="Entity">
+    	<sequence>
+    		<element name="position" type="tns:Position"></element>
+    	</sequence>
+    	<attribute name="id" type="ID"></attribute>
+    </complexType>
+
+    <complexType name="Position">
+    	<attribute name="x" type="positiveInteger"></attribute>
+    	<attribute name="y" type="positiveInteger"></attribute>
+    </complexType>
+
+    <complexType name="Map">
+    	<sequence>
+    		<element name="tile" type="tns:Tile" minOccurs="1" maxOccurs="unbounded"></element>
+    	</sequence>
+    	<attribute name="width" type="positiveInteger"></attribute>
+    	<attribute name="height" type="positiveInteger"></attribute>
+    </complexType>
+
+    <complexType name="Tile">
+    	<sequence>
+    		<element name="position" type="tns:Position"></element>
+    	</sequence>
+    	<attribute name="floorId" type="positiveInteger"></attribute>
+    	<attribute name="isSolid" type="boolean"></attribute>
+    </complexType>
+
+    <complexType name="Door">
+    	<complexContent>
+    		<extension base="tns:Entity">
+    			<attribute name="open" type="boolean"></attribute>
+    			<attribute name="openDecorationId"
+    				type="positiveInteger">
+    			</attribute>
+    			<attribute name="closedDecorationId" type="positiveInteger"></attribute>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="Entities">
+    	<sequence>
+    		<element name="entity" type="tns:Entity" maxOccurs="unbounded" minOccurs="0"></element>
+    	</sequence>
+    </complexType>
+
+</schema>

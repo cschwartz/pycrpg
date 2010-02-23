@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skeleton class="entities.aicreature.AICreature" tileManager="creature">
+	<appearance id="219"/>
+	<attributes>
+		<speed>3</speed>
+		<agility>2</agility>
+		<constitution>2</constitution>
+	</attributes>
+	<inventory>
+		<sword/>
+		<chainmail/>
+		<chaintrousers/>
+	</inventory>
+</skeleton>

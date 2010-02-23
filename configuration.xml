@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+	<screen width="800" height="600" isFullscreen="False"/>
+	<assets configuration="assets.xml"/>
+	<input>
+		<mapping key="K_RIGHT" operation="move_right"/>
+		<mapping key="K_LEFT" operation="move_left"/>
+		<mapping key="K_UP" operation="move_up"/>
+		<mapping key="K_DOWN" operation="move_down"/>
+		<mapping key="K_i" operation="show_inventory"/>
+		<mapping key="K_l" operation="mode_look"/>
+		<mapping key="K_u" operation="mode_use"/>
+		<mapping key="K_ESCAPE" operation="quit"/>
+	</input>
+</configuration>
