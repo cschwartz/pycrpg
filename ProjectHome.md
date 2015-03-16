@@ -1,0 +1,1 @@
+pyCRPG is a computer role playing game with a roguelike ui. It's using pyGame, numpy, ocempgui for the actual game, while the toolset is being written using pyQt
